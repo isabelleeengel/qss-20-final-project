@@ -1,0 +1,87 @@
+state,state_code,race,race_code,deaths,population,crude_rate,ci_lower,ci_upper
+Alabama,1.0,Black or African American,2054-5,65.0,9384181.0,0.7,0.5,0.9
+Alabama,1.0,White,2106-3,60.0,24197348.0,0.2,0.2,0.3
+Alaska,2.0,White,2106-3,10.0,3318369.0,0.3,0.1,0.6
+Arizona,4.0,American Indian or Alaska Native,1002-5,18.0,2694672.0,0.7,0.4,1.1
+Arizona,4.0,Black or African American,2054-5,18.0,2805255.0,0.6,0.4,1.0
+Arizona,4.0,White,2106-3,104.0,42244915.0,0.2,0.2,0.3
+Arkansas,5.0,Black or African American,2054-5,33.0,3331104.0,1.0,0.7,1.4
+Arkansas,5.0,White,2106-3,49.0,16751182.0,0.3,0.2,0.4
+California,6.0,Asian,A,48.0,44155724.0,0.1,0.1,0.1
+California,6.0,Black or African American,2054-5,51.0,17799362.0,0.3,0.2,0.4
+California,6.0,White,2106-3,201.0,195504971.0,0.1,0.1,0.1
+California,6.0,More than one race,M,18.0,11505265.0,0.2,0.1,0.2
+Colorado,8.0,White,2106-3,51.0,35200704.0,0.1,0.1,0.2
+Connecticut,9.0,Black or African American,2054-5,11.0,3196849.0,0.3,0.2,0.6
+Connecticut,9.0,White,2106-3,24.0,19863179.0,0.1,0.1,0.2
+District of Columbia,11.0,Black or African American,2054-5,14.0,2190000.0,0.6,0.3,1.1
+Florida,12.0,Black or African American,2054-5,158.0,26189399.0,0.6,0.5,0.7
+Florida,12.0,White,2106-3,173.0,118844137.0,0.1,0.1,0.2
+Georgia,13.0,Black or African American,2054-5,154.0,24917407.0,0.6,0.5,0.7
+Georgia,13.0,White,2106-3,95.0,45000284.0,0.2,0.2,0.3
+Idaho,16.0,White,2106-3,19.0,12212458.0,0.2,0.1,0.2
+Illinois,17.0,Black or African American,2054-5,58.0,12967563.0,0.4,0.3,0.6
+Illinois,17.0,White,2106-3,100.0,67519979.0,0.1,0.1,0.2
+Indiana,18.0,Black or African American,2054-5,36.0,4859995.0,0.7,0.5,1.0
+Indiana,18.0,White,2106-3,123.0,40084864.0,0.3,0.3,0.4
+Iowa,19.0,White,2106-3,38.0,20088190.0,0.2,0.1,0.3
+Kansas,20.0,Black or African American,2054-5,16.0,1269187.0,1.3,0.7,2.0
+Kansas,20.0,White,2106-3,29.0,17643631.0,0.2,0.1,0.2
+Kentucky,21.0,Black or African American,2054-5,17.0,2722726.0,0.6,0.4,1.0
+Kentucky,21.0,White,2106-3,94.0,27449870.0,0.3,0.3,0.4
+Louisiana,22.0,Black or African American,2054-5,89.0,10598436.0,0.8,0.7,1.0
+Louisiana,22.0,White,2106-3,53.0,20237108.0,0.3,0.2,0.3
+Maine,23.0,White,2106-3,10.0,9019303.0,0.1,0.1,0.2
+Maryland,24.0,Black or African American,2054-5,44.0,13457579.0,0.3,0.2,0.4
+Maryland,24.0,White,2106-3,46.0,24784102.0,0.2,0.1,0.2
+Massachusetts,25.0,Black or African American,2054-5,19.0,4569184.0,0.4,0.3,0.6
+Massachusetts,25.0,White,2106-3,50.0,38880232.0,0.1,0.1,0.2
+Michigan,26.0,Black or African American,2054-5,45.0,9902137.0,0.5,0.3,0.6
+Michigan,26.0,White,2106-3,82.0,55387952.0,0.1,0.1,0.2
+Minnesota,27.0,Black or African American,2054-5,11.0,2973544.0,0.4,0.2,0.7
+Minnesota,27.0,White,2106-3,33.0,33055201.0,0.1,0.1,0.1
+Mississippi,28.0,Black or African American,2054-5,63.0,7829538.0,0.8,0.6,1.0
+Mississippi,28.0,White,2106-3,22.0,12188619.0,0.2,0.1,0.3
+Missouri,29.0,Black or African American,2054-5,33.0,5085909.0,0.6,0.4,0.9
+Missouri,29.0,White,2106-3,76.0,35680071.0,0.2,0.2,0.3
+Montana,30.0,White,2106-3,13.0,6844513.0,0.2,0.1,0.3
+Nebraska,31.0,White,2106-3,30.0,12014466.0,0.2,0.2,0.4
+Nevada,32.0,Black or African American,2054-5,11.0,2341616.0,0.5,0.2,0.8
+Nevada,32.0,White,2106-3,27.0,16001143.0,0.2,0.1,0.2
+New Hampshire,33.0,White,2106-3,13.0,8977300.0,0.1,0.1,0.2
+New Jersey,34.0,Black or African American,2054-5,74.0,9802456.0,0.8,0.6,0.9
+New Jersey,34.0,White,2106-3,85.0,45444858.0,0.2,0.1,0.2
+New Mexico,35.0,White,2106-3,26.0,12009767.0,0.2,0.1,0.3
+New York,36.0,Asian,A,21.0,12934193.0,0.2,0.1,0.2
+New York,36.0,Black or African American,2054-5,136.0,24261845.0,0.6,0.5,0.7
+New York,36.0,White,2106-3,160.0,94668546.0,0.2,0.1,0.2
+North Carolina,37.0,Black or African American,2054-5,101.0,16536041.0,0.6,0.5,0.7
+North Carolina,37.0,White,2106-3,100.0,52297469.0,0.2,0.2,0.2
+North Dakota,38.0,White,2106-3,10.0,4694876.0,0.2,0.1,0.4
+Ohio,39.0,Black or African American,2054-5,70.0,10898676.0,0.6,0.5,0.8
+Ohio,39.0,White,2106-3,133.0,66736900.0,0.2,0.2,0.2
+Oklahoma,40.0,American Indian or Alaska Native,1002-5,12.0,2667647.0,0.4,0.2,0.8
+Oklahoma,40.0,Black or African American,2054-5,19.0,2202638.0,0.9,0.5,1.3
+Oklahoma,40.0,White,2106-3,54.0,20558493.0,0.3,0.2,0.3
+Oregon,41.0,White,2106-3,37.0,25507807.0,0.1,0.1,0.2
+Pennsylvania,42.0,Black or African American,2054-5,50.0,11000382.0,0.5,0.3,0.6
+Pennsylvania,42.0,White,2106-3,90.0,73195434.0,0.1,0.1,0.2
+Rhode Island,44.0,White,2106-3,12.0,6279210.0,0.2,0.1,0.3
+South Carolina,45.0,Black or African American,2054-5,65.0,9739986.0,0.7,0.5,0.9
+South Carolina,45.0,White,2106-3,51.0,25283322.0,0.2,0.2,0.3
+Tennessee,47.0,Black or African American,2054-5,82.0,8222063.0,1.0,0.8,1.2
+Tennessee,47.0,White,2106-3,123.0,38276928.0,0.3,0.3,0.4
+Texas,48.0,Asian,A,27.0,11740037.0,0.2,0.2,0.3
+Texas,48.0,Black or African American,2054-5,175.0,27619723.0,0.6,0.5,0.7
+Texas,48.0,White,2106-3,501.0,161920215.0,0.3,0.3,0.3
+Utah,49.0,White,2106-3,36.0,20959614.0,0.2,0.1,0.2
+Virginia,51.0,Asian,A,10.0,4368591.0,0.2,0.1,0.4
+Virginia,51.0,Black or African American,2054-5,76.0,12072652.0,0.6,0.5,0.8
+Virginia,51.0,White,2106-3,99.0,41600697.0,0.2,0.2,0.3
+Washington,53.0,Asian,A,11.0,5529372.0,0.2,0.1,0.4
+Washington,53.0,Black or African American,2054-5,10.0,2446096.0,0.4,0.2,0.8
+Washington,53.0,White,2106-3,62.0,41853790.0,0.1,0.1,0.2
+West Virginia,54.0,White,2106-3,26.0,11617605.0,0.2,0.1,0.3
+Wisconsin,55.0,Black or African American,2054-5,13.0,2753347.0,0.5,0.3,0.8
+Wisconsin,55.0,White,2106-3,44.0,35642783.0,0.1,0.1,0.2
+Wyoming,56.0,White,2106-3,12.0,3760059.0,0.3,0.2,0.6
