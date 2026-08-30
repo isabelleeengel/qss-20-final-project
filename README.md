@@ -34,5 +34,13 @@ The dataset includes maternal mortality information organized by:
 - Small numbers of deaths or populations can produce unstable mortality rates, so individual state estimates should be interpreted cautiously.
 - The analysis identifies patterns and associations but does not establish causal relationships between race, geography, healthcare policy, and maternal mortality
 
-### Sources
+### Tools
+This project utilizes:
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Jupyter Notebooks
+- GitHub
+- LaTeX / Overleaf
 
