@@ -1,4 +1,4 @@
-# Inequities in Women's Healthcare: Racial and Geographic Disparities in Maternal Mortality Across the United States
+# Inequities in Women's Healthcare
 ## QSS 20 Final Project Overview: Investigating Racial and Geographic Disparities in Maternal Mortality across the United States.
 
 ### Table of Contents
