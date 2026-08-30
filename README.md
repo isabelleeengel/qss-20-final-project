@@ -10,7 +10,8 @@
 
 
 ### Project Overview: 
-[Live Website] (https://arcg.is/1jTKmj3)
+## Live Website
+[Live Website](https://arcg.is/1jTKmj3)
 This project examines whether disparities in U.S. maternal mortality compound across two dimensions, race and state lines. Using data from the CDC WONDER Multiple Cause of Death database, this project examines how maternal mortality rates vary across racial groups and states and whether racial disparities remain consistent across the country.
 National statistics can reveal substantial racial disparities in maternal mortality, but national averages may obscure important differences between states. This project therefore focuses on the intersection of race and geography to examine whether the magnitude of racial disparities differs depending on where women live.
 
