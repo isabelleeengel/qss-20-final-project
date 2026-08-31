@@ -4,9 +4,19 @@
 ### Table of Contents
 [Data](data/): Collects the maternal mortality data from CDC WONDER, performs initial checks on the downloaded dataset, and stores cleaned dataset
 
+Takes in: Raw CSV
+
+Outputs: Clean Dataset
+
+
 [Code](code/): Cleans and prepares the raw CDC data for analysis, creates figures, and conducts the  analysis of maternal mortality by race and state 
 
+Takes in: Raw dataset, cleaned dataset
+Outputs: Graphs, Tables, Figures
+
+
 [Output](output/): Stores graphs and figures
+Outputs: Visualizations
 
 
 ### Project Overview: 
@@ -31,6 +41,7 @@ The dataset includes maternal mortality information organized by:
 - Race/ethnicity
 - Maternal deaths
 - Maternal mortality rate
+
 
 ### Limitations: 
 - The CDC suppresses data with death counts under 10 which limits the representations of some racial groups.
